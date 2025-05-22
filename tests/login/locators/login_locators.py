@@ -1,0 +1,2 @@
+PERSONAL_ID_LOCATOR = '#PersonalId'
+BIRTH_DATE_LOCATOR = '#birthDate'
